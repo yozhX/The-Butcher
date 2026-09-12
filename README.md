@@ -74,6 +74,12 @@ What you **CANNOT** do: You cannot **re-upload**, redistribute, or **claim** thi
 
 </details>
 
+## Forking
+
+You can download the necessary files from the provided link.
+
+[Forking Files]()
+
 ## Social
 
 * [YouTube](https://www.youtube.com/@TheTojiii)
